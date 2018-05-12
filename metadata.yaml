@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42734'
     url: http://www.gutenberg.org/2009/agents/42734
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38916#The-Trial-of-Oscar-WildeFrom-the-Shorthand-Reports
 gutenberg_issued: '2012-02-18'
 gutenberg_type: Text
 identifiers:
